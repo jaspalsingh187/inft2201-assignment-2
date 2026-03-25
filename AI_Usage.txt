@@ -1,0 +1,1 @@
+I used AI tools a little bit while working on this assignment, mainly to understand how JWT authentication works and to get help with some errors. It helped me understand the flow between Node and PHP and how the token is used for authorization. I tested everything myself and updated code.
